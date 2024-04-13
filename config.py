@@ -1,9 +1,9 @@
 URL = 'http://data.fixer.io/api/latest?access_key='
-API_KEY = '4c71d191613da09ef4be5b836a5e00e9'
+API_KEY = 'FIXER_API_KEY'
 
 
 # Kavehnegar
-KAVEHNEGAR_API_KEY = 'API_KEY'
+KAVEHNEGAR_API_KEY = 'KAVEHNEGAR_API_KEY'
 
 
 # Email configs
